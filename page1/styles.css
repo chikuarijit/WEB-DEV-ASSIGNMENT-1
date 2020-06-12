@@ -1,0 +1,23 @@
+body{
+    background: url("../images/jason-leung-479251-unsplash.jpg");
+    background-size: 100%;
+}    
+p{
+    text-align: center;
+    margin-top: 300px;
+    font-size: 55px;   
+}
+#box{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 200px;
+    position: relative;
+    width:  100px;
+    height: 40px;
+    background: #ff4500;
+    box-sizing: border-box;
+    overflow: hidden;
+    border-radius: 100px;
+    margin: auto;
+    transition: background 0.5s;
+}
